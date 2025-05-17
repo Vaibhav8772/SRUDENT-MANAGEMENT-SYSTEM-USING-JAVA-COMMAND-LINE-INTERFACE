@@ -1,0 +1,2 @@
+# SRUDENT-MANAGEMENT-SYSTEM-USING-JAVA-COMMAND-LINE-INTERFACE
+Developed a robust and fully scalable Student Management System that operates through a Command Line Interface. This application manages student records efficiently, offering core functionalities such as registration, data retrieval, updates, and deletion. The system was thoroughly tested to ensure performance, reliability, and scalability.
